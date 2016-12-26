@@ -1,0 +1,18 @@
+name: randoms
+version: 0.1.0
+
+authors:
+  - Chase Southard <chase.southard@gmail.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+targets:
+  randoms:
+    main: src/randoms.cr
+
+crystal: 0.20.3
+
+license: MIT
