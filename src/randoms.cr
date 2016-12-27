@@ -2,8 +2,8 @@ require "./randoms/*"
 require "kemal"
 require "json"
 
-get "/" do
-  "Hello World!"
+get "/" do |env|
+  env.redirect "/index.html"
 end
 
 # GET /ping
