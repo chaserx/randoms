@@ -1,18 +1,16 @@
 # randoms
 
-TODO: Write a description here
+A small and simple web service that returns JSON formatted pseudorandom data - numbers, hexadecimal numbers, UUIDs, and base 64 strings. An excuse to try out [Crystal](https://crystal-lang.org/) and the companion web framework, [Kemal](http://kemalcr.com/). Originally considered as a useful idea as a data source for [Workflow](https://workflow.is/)
 
 ## Installation
 
-TODO: Write installation instructions here
+- install crystal
+- `crystal build --release src/randoms.cr`
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+- `./randoms`
+- visit [localhost:3000](http://localhost:3000)
 
 ## Contributing
 
