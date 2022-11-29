@@ -16,6 +16,6 @@ targets:
   randoms:
     main: src/randoms.cr
 
-crystal: 0.20.3
+crystal: 1.6.2
 
 license: MIT

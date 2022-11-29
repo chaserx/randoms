@@ -49,4 +49,4 @@ A small and simple web service that returns JSON formatted pseudorandom data - n
 
 ## Contributors
 
-- [chaserx](https://github.com/chaserx) Chase Southard - creator, maintainer
+- [chaserx](https://github.com/chaserx) Chase Southard
